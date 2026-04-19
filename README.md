@@ -13,9 +13,14 @@ This project automates email processing using Python.
 - File Handling
 
 ## How to Run
-1. Place emails.txt in same folder
+1. Keep emails.txt in same folder
 2. Run api_test.py
-3. Check output.txt
+3. Output will be generated in output.txt
+
+## Sample Output
+-Sending to: a@gmail.com -> Skipped  
+-Sending to: b@gmail.com -> Sent  
+-Sending to: c@gmail.com -> Skipped  
 
 ## Author
 Shyam Sagar
